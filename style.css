@@ -4,13 +4,13 @@ html {
 }
 
 header {
-  font-family: "Sofia";
+  font-family: "Times New Roman";
   text-align: center;
   padding: 2rem;
 }
 
 h2 {
-  font-family: "Sofia";
+  font-family: "Georgia";
 }
 
 .container {
@@ -22,7 +22,7 @@ h2 {
 img {
   max-width: 300px;
   max-height: 300px;
-  border: solid;
+  border: dotted;
   margin: 2rem;
 }
 
