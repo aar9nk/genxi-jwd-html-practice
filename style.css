@@ -22,7 +22,7 @@ h2 {
 img {
   max-width: 300px;
   max-height: 300px;
-  border: solid;
+  border: dotted;
   margin: 2rem;
 }
 
